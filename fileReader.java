@@ -1,6 +1,6 @@
 /* Read Data from a File */
-import java.Lang.System;
-import java.Lang.String;
+import java.Lang.System;  // by default
+import java.Lang.String;  // by default
 
 import java.io.File;
 import java.io.IOException;
